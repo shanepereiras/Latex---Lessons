@@ -1,0 +1,156 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Bowman%
+, Debray%
+\BCBL {}\ \BBA {} Peterson%
+}{%
+Bowman%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1993}}%
+}]{%
+bowman:reasoning}
+\APACinsertmetastar {%
+bowman:reasoning}%
+\begin{APACrefauthors}%
+Bowman, M.%
+, Debray, S\BPBI K.%
+\BCBL {}\ \BBA {} Peterson, L\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1993}{November}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Reasoning About Naming Systems} {Reasoning about naming
+  systems}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{ACM Trans. Program. Lang. Syst.}{15}{5}{795-825}.
+\newblock
+\begin{APACrefDOI} \doi{10.1145/161468.161471} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Braams%
+}{%
+Braams%
+}{%
+{\protect \APACyear {1991}}%
+}]{%
+braams:babel}
+\APACinsertmetastar {%
+braams:babel}%
+\begin{APACrefauthors}%
+Braams, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1991}{June}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Babel, a Multilingual Style-Option System for Use with
+  LaTeX's Standard Document Styles} {Babel, a multilingual style-option system
+  for use with latex's standard document styles}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{TUGboat}{12}{2}{291-301}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Clark%
+}{%
+Clark%
+}{%
+{\protect \APACyear {1991}}%
+}]{%
+clark:pct}
+\APACinsertmetastar {%
+clark:pct}%
+\begin{APACrefauthors}%
+Clark, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1991}{March}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Post Congress Tristesse} {Post congress
+  tristesse}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {TeX90 Conference Proceedings} {Tex90 conference
+  proceedings}\ (\BPG~84-89).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Herlihy%
+}{%
+Herlihy%
+}{%
+{\protect \APACyear {1993}}%
+}]{%
+herlihy:methodology}
+\APACinsertmetastar {%
+herlihy:methodology}%
+\begin{APACrefauthors}%
+Herlihy, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1993}{November}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A Methodology for Implementing Highly Concurrent Data
+  Objects} {A methodology for implementing highly concurrent data
+  objects}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{ACM Trans. Program. Lang. Syst.}{15}{5}{745-770}.
+\newblock
+\begin{APACrefDOI} \doi{10.1145/161468.161469} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lamport%
+}{%
+Lamport%
+}{%
+{\protect \APACyear {1986}}%
+}]{%
+Lamport:LaTeX}
+\APACinsertmetastar {%
+Lamport:LaTeX}%
+\begin{APACrefauthors}%
+Lamport, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1986}.
+\newblock
+\APACrefbtitle {LaTeX User's Guide and Document Reference Manual} {Latex user's
+  guide and document reference manual}.
+\newblock
+\APACaddressPublisher{Reading, Massachusetts}{Addison-Wesley Publishing
+  Company}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Salas%
+\ \BBA {} Hille%
+}{%
+Salas%
+\ \BBA {} Hille%
+}{%
+{\protect \APACyear {1978}}%
+}]{%
+salas:calculus}
+\APACinsertmetastar {%
+salas:calculus}%
+\begin{APACrefauthors}%
+Salas, S.%
+\BCBT {}\ \BBA {} Hille, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1978}.
+\newblock
+\APACrefbtitle {Calculus: One and Several Variable} {Calculus: One and several
+  variable}.
+\newblock
+\APACaddressPublisher{New York}{John Wiley and Sons}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

@@ -1,0 +1,866 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  5 APR 2017 21:14
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**test.tex
+(./test.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2016/04/19 v0.5f Insert pages of external PDF documents (AM)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count87
+\calc@Bcount=\count88
+\calc@Adimen=\dimen103
+\calc@Bdimen=\dimen104
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count89
+\calc@Cskip=\skip45
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count90
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+)
+\Gin@req@height=\dimen105
+\Gin@req@width=\dimen106
+)
+\AM@pagewidth=\dimen107
+\AM@pageheight=\dimen108
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2016/04/19 v0.5f Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box26
+\AM@global@opts=\toks15
+\AM@toc@title=\toks16
+\c@AM@survey=\count91
+\AM@templatesizebox=\box27
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/apacite/apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count92
+\bibleftmargin=\skip46
+\bibindent=\skip47
+\bibparsep=\skip48
+\bibitemsep=\skip49
+\biblabelsep=\skip50
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip51
+\f@ncyO@elh=\skip52
+\f@ncyO@erh=\skip53
+\f@ncyO@olh=\skip54
+\f@ncyO@orh=\skip55
+\f@ncyO@elf=\skip56
+\f@ncyO@erf=\skip57
+\f@ncyO@olf=\skip58
+\f@ncyO@orf=\skip59
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/anonymouspro/AnonymousPro.sty
+Package: AnonymousPro 2014/03/22 v2.1 Support for AnonymousPro Fonts (AE)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))))
+(./test.aux)
+\openout1 = `test.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Try loading font information for T1+AnonymousPro on input l
+ine 18.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/anonymouspro/t1anonymouspro.fd
+File: t1anonymouspro.fd 2014/03/22 Fontinst v1.933 font definitions for T1/Anon
+ymousPro.
+)
+LaTeX Font Info:    Font shape `T1/AnonymousPro/m/n' will be
+(Font)              scaled to size 10.0pt on input line 18.
+\AtBeginShipoutBox=\box28
+
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count93
+\scratchdimen=\dimen109
+\scratchbox=\box29
+\nofMPsegments=\count94
+\nofMParguments=\count95
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count96
+\MPscratchDim=\dimen110
+\MPnumerator=\count97
+\makeMPintoPDFobject=\count98
+\everyMPtoPDFconversion=\toks18
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+))
+\c@maskedRefs=\count99
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/apacite/english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+LaTeX Font Info:    Font shape `T1/AnonymousPro/m/n' will be
+(Font)              scaled to size 17.28pt on input line 21.
+LaTeX Font Info:    Font shape `T1/AnonymousPro/m/n' will be
+(Font)              scaled to size 12.0pt on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 21.
+
+<Hogoschool-Rotterdam-Logo.pdf, id=1, 84.5559pt x 84.5559pt>
+File: Hogoschool-Rotterdam-Logo.pdf Graphic file (type pdf)
+
+<use Hogoschool-Rotterdam-Logo.pdf>
+Package pdftex.def Info: Hogoschool-Rotterdam-Logo.pdf used on input line 24.
+(pdftex.def)             Requested size: 85.35826pt x 85.35817pt.
+ [1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Hogos
+chool-Rotterdam-Logo.pdf>]
+LaTeX Font Info:    Font shape `T1/AnonymousPro/m/n' will be
+(Font)              scaled to size 14.4pt on input line 30.
+LaTeX Font Info:    Font shape `T1/AnonymousPro/bx/n' in size <14.4> not availa
+ble
+(Font)              Font shape `T1/AnonymousPro/b/n' tried instead on input lin
+e 30.
+LaTeX Font Info:    Font shape `T1/AnonymousPro/b/n' will be
+(Font)              scaled to size 14.4pt on input line 30.
+ (./test.toc
+LaTeX Font Info:    Font shape `T1/AnonymousPro/bx/n' in size <10> not availabl
+e
+(Font)              Font shape `T1/AnonymousPro/b/n' tried instead on input lin
+e 1.
+LaTeX Font Info:    Font shape `T1/AnonymousPro/b/n' will be
+(Font)              scaled to size 10.0pt on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `test.toc'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 31.
+LaTeX Font Info:    Font shape `T1/AnonymousPro/m/n' will be
+(Font)              scaled to size 7.0pt on input line 31.
+
+[2]
+Overfull \hbox (14.6998pt too wide) in paragraph at lines 36--39
+\T1/AnonymousPro/m/n/10 How much would you value your life if you barely com-mu
+-ni-cated with
+ []
+
+
+Overfull \hbox (3.7998pt too wide) in paragraph at lines 36--39
+\T1/AnonymousPro/m/n/10 any-one but your co-workers? This is what is go-ing on 
+in nurs-ing
+ []
+
+
+Overfull \hbox (3.7998pt too wide) in paragraph at lines 36--39
+\T1/AnonymousPro/m/n/10 homes across the Nether-lands. Lack of staff leads to n
+ot hav-ing
+ []
+
+
+Overfull \hbox (9.2498pt too wide) in paragraph at lines 36--39
+\T1/AnonymousPro/m/n/10 the time to so-cialise with the clients[]Salas & Hille,
+ 1978). Ac-
+ []
+
+
+Overfull \hbox (3.7998pt too wide) in paragraph at lines 36--39
+\T1/AnonymousPro/m/n/10 cord-ing to Zorgkaartned-er-land a fifth of the com-pla
+ints in nurs-
+ []
+
+
+Overfull \hbox (3.7998pt too wide) in paragraph at lines 36--39
+\T1/AnonymousPro/m/n/10 ing homes come from staff not be-ing able to have enoug
+h per-sonal
+ []
+
+
+Overfull \hbox (20.1498pt too wide) in paragraph at lines 36--39
+\T1/AnonymousPro/m/n/10 at-ten-tion for their clients. There-fore, lack of staf
+f leads to the
+ []
+
+
+Overfull \hbox (25.5998pt too wide) in paragraph at lines 36--39
+\T1/AnonymousPro/m/n/10 less im-por-tant work not be-ing done. As men-tioned co
+m-mu-ni-ca-tion with
+ []
+
+
+Overfull \hbox (14.6998pt too wide) in paragraph at lines 36--39
+\T1/AnonymousPro/m/n/10 clients is a part of the so called ?less im-por-tant wo
+rk?. In-stead
+ []
+
+
+Overfull \hbox (3.7998pt too wide) in paragraph at lines 36--39
+\T1/AnonymousPro/m/n/10 the staff only has time to do ad-min-is-tra-tion, help-
+ing clients in
+ []
+
+
+Overfull \hbox (3.7998pt too wide) in paragraph at lines 36--39
+\T1/AnonymousPro/m/n/10 need and walk-ing around hand-ing the clients their med
+icine. But
+ []
+
+
+Overfull \hbox (9.2498pt too wide) in paragraph at lines 36--39
+\T1/AnonymousPro/m/n/10 there?s no time to have a so-cial con-ver-sa-tion. The 
+only so-lu-tion
+ []
+
+
+Overfull \hbox (9.2498pt too wide) in paragraph at lines 36--39
+\T1/AnonymousPro/m/n/10 for the lack of staff in the world of tech-nol-ogy is t
+o re-duce the
+ []
+
+
+Overfull \hbox (25.5998pt too wide) in paragraph at lines 36--39
+\T1/AnonymousPro/m/n/10 work they have. This way their work stress is re-duced 
+and more time
+ []
+
+
+Overfull \hbox (3.7998pt too wide) in paragraph at lines 36--39
+\T1/AnonymousPro/m/n/10 for clients will be cre-ated. Hand-ing the clients thei
+r medicine
+ []
+
+
+Overfull \hbox (31.04979pt too wide) in paragraph at lines 36--39
+\T1/AnonymousPro/m/n/10 takes up a lot of time of the staff. They have to go by
+ ev-ery client
+ []
+
+
+Overfull \hbox (3.7998pt too wide) in paragraph at lines 36--39
+\T1/AnonymousPro/m/n/10 and hand them their medicine, this also causes a great 
+chance of
+ []
+
+
+Overfull \hbox (3.7998pt too wide) in paragraph at lines 36--39
+\T1/AnonymousPro/m/n/10 clients get-ting the wrong medicines. So in-stead we us
+e medicine
+ []
+
+
+Overfull \hbox (36.49979pt too wide) in paragraph at lines 36--39
+\T1/AnonymousPro/m/n/10 dis-pensers in client?s rooms[]Bowman, De-bray, & Pe-te
+r-son, 1993). These
+ []
+
+
+Overfull \hbox (3.7998pt too wide) in paragraph at lines 36--39
+\T1/AnonymousPro/m/n/10 will be filled once a week by the staff, it will no-tif
+y when the
+ []
+
+
+Overfull \hbox (52.84978pt too wide) in paragraph at lines 36--39
+\T1/AnonymousPro/m/n/10 client needs to take their medicine and no-tify the sta
+ff if the medicines
+ []
+
+
+Overfull \hbox (20.1498pt too wide) in paragraph at lines 41--45
+\T1/AnonymousPro/m/n/10 The so-lu-tion to help solve this prob-lem is the medic
+ine dis-pensers.
+ []
+
+
+Overfull \hbox (3.7998pt too wide) in paragraph at lines 41--45
+\T1/AnonymousPro/m/n/10 The staff will have to go by ev-ery client to fill the 
+dis-pensers
+ []
+
+
+Overfull \hbox (9.2498pt too wide) in paragraph at lines 41--45
+\T1/AnonymousPro/m/n/10 once a week. The dis-pensers can have a set timer to di
+s-pense the
+ []
+
+
+Overfull \hbox (31.04979pt too wide) in paragraph at lines 41--45
+\T1/AnonymousPro/m/n/10 medicine or staff can re-motely dis-pense the medicine.
+ The dis-pensers
+ []
+
+
+Overfull \hbox (31.04979pt too wide) in paragraph at lines 41--45
+\T1/AnonymousPro/m/n/10 do not ap-ply to the clients which are not able to take
+ their medicine
+ []
+
+
+Overfull \hbox (14.6998pt too wide) in paragraph at lines 41--45
+\T1/AnonymousPro/m/n/10 on their own. For these clients the reg-u-lar way will 
+be used. So
+ []
+
+
+Overfull \hbox (20.1498pt too wide) in paragraph at lines 41--45
+\T1/AnonymousPro/m/n/10 the staff will still have to go to these clients to mak
+e sure their
+ []
+
+
+Overfull \hbox (9.2498pt too wide) in paragraph at lines 41--45
+\T1/AnonymousPro/m/n/10 medicine is taken. The dis-penser has a cham-ber for ev
+-ery day and
+ []
+
+
+Overfull \hbox (9.2498pt too wide) in paragraph at lines 41--45
+\T1/AnonymousPro/m/n/10 the cham-ber has 3 lay-ers on its own. A layer for medi
+cine in the
+ []
+
+
+Overfull \hbox (9.2498pt too wide) in paragraph at lines 41--45
+\T1/AnonymousPro/m/n/10 morn-ing, af-ter-noon and evening. The dis-penser has a
+n easy to use
+ []
+
+
+Overfull \hbox (9.2498pt too wide) in paragraph at lines 41--45
+\T1/AnonymousPro/m/n/10 and small in-ter-face to set the time for each day and 
+layer of the
+ []
+
+
+Overfull \hbox (25.5998pt too wide) in paragraph at lines 41--45
+\T1/AnonymousPro/m/n/10 cham-ber. When this time comes the cham-ber and the fir
+st layer opens
+ []
+
+
+Overfull \hbox (9.2498pt too wide) in paragraph at lines 41--45
+\T1/AnonymousPro/m/n/10 to dis-pense the medicine into a cap-ture bin. A small 
+speaker and
+ []
+
+
+Overfull \hbox (14.6998pt too wide) in paragraph at lines 41--45
+\T1/AnonymousPro/m/n/10 a sign will let the client know the medicine is ready t
+o be taken.
+ []
+
+
+Overfull \hbox (25.5998pt too wide) in paragraph at lines 41--45
+\T1/AnonymousPro/m/n/10 If the medicine isn?t taken the sound will go off again
+ and the sign
+ []
+
+
+Overfull \hbox (3.7998pt too wide) in paragraph at lines 41--45
+\T1/AnonymousPro/m/n/10 will stay on. If the medicine is still not taken the st
+aff will
+ []
+
+
+Overfull \hbox (3.7998pt too wide) in paragraph at lines 41--45
+\T1/AnonymousPro/m/n/10 be no-ti-fied. Once the medicine is taken the staff wil
+l be no-ti-
+ []
+
+
+Overfull \hbox (58.29977pt too wide) in paragraph at lines 41--45
+\T1/AnonymousPro/m/n/10 fied as well. The medicine it-self will be packed in a 
+bax-ter roll[]Braams,
+ []
+
+[1]
+Overfull \hbox (25.5998pt too wide) in paragraph at lines 47--49
+\T1/AnonymousPro/m/n/10 This prod-uct is not en-tirely new. Candy vend-ing ma-c
+hines are a pre-
+ []
+
+
+Overfull \hbox (20.1498pt too wide) in paragraph at lines 47--49
+\T1/AnonymousPro/m/n/10 cur-sor of the the medicine dis-penser. An ex-ist-ing d
+is-penser is en-
+ []
+
+
+Overfull \hbox (9.2498pt too wide) in paragraph at lines 47--49
+\T1/AnonymousPro/m/n/10 hanced in a way to make it func-tional in a nurs-ing ho
+me. As men-
+ []
+
+
+Overfull \hbox (14.6998pt too wide) in paragraph at lines 47--49
+\T1/AnonymousPro/m/n/10 tioned in last chap-ter the dis-penser will have sound 
+to no-tify the
+ []
+
+
+Overfull \hbox (14.6998pt too wide) in paragraph at lines 47--49
+\T1/AnonymousPro/m/n/10 clients. Be-sides no-ti-fy-ing the clients it also no-t
+i-fies the staff
+ []
+
+
+Overfull \hbox (14.6998pt too wide) in paragraph at lines 47--49
+\T1/AnonymousPro/m/n/10 when the medicine is ei-ther taken or not. This means t
+he medicine
+ []
+
+
+Overfull \hbox (14.6998pt too wide) in paragraph at lines 47--49
+\T1/AnonymousPro/m/n/10 dis-penser is con-nected over a lo-cal network[]Clark, 
+1991). We keep
+ []
+
+
+Overfull \hbox (14.6998pt too wide) in paragraph at lines 47--49
+\T1/AnonymousPro/m/n/10 this to a lo-cal net-work to of-fer the best se-cu-rity
+. The pro?s and
+ []
+
+
+Overfull \hbox (25.5998pt too wide) in paragraph at lines 47--49
+\T1/AnonymousPro/m/n/10 cons will be dis-cussed in the next chap-ter. The dis-p
+enser will have
+ []
+
+
+Overfull \hbox (25.5998pt too wide) in paragraph at lines 47--49
+\T1/AnonymousPro/m/n/10 a small user in-ter-face to set the time to re-lease th
+e medicine. The
+ []
+
+
+Overfull \hbox (9.2498pt too wide) in paragraph at lines 47--49
+\T1/AnonymousPro/m/n/10 tech-nol-ogy com-pany Phillips has made a sim-i-lar pro
+d-uct called the
+ []
+
+
+Overfull \hbox (9.2498pt too wide) in paragraph at lines 47--49
+\T1/AnonymousPro/m/n/10 au-to-mated medicine dispenser[]Herlihy, 1993). This pr
+od-uct is for
+ []
+
+
+Overfull \hbox (9.2498pt too wide) in paragraph at lines 47--49
+\T1/AnonymousPro/m/n/10 home use and has some cons to it. For a starter your in
+-for-ma-tion
+ []
+
+
+Overfull \hbox (9.2498pt too wide) in paragraph at lines 47--49
+\T1/AnonymousPro/m/n/10 about your medicine, if the medicine has been taken and
+ also when
+ []
+
+
+Overfull \hbox (3.7998pt too wide) in paragraph at lines 47--49
+\T1/AnonymousPro/m/n/10 the medicine is taken is send to Phillips. This data is
+ all be-
+ []
+
+
+Overfull \hbox (20.1498pt too wide) in paragraph at lines 47--49
+\T1/AnonymousPro/m/n/10 ing stored by Phillips. The whole use a of the sys-tem 
+goes through
+ []
+
+
+Overfull \hbox (25.5998pt too wide) in paragraph at lines 47--49
+\T1/AnonymousPro/m/n/10 Phillips. Our medicine dis-penser is a stand alone de-v
+ice which will
+ []
+
+
+Overfull \hbox (14.6998pt too wide) in paragraph at lines 47--49
+\T1/AnonymousPro/m/n/10 first of all not send any data to any com-pany but it w
+ill also not
+ []
+
+
+Overfull \hbox (25.5998pt too wide) in paragraph at lines 47--49
+\T1/AnonymousPro/m/n/10 store it, as there is no need to. Also the prod-uct mad
+e by Phillips
+ []
+
+
+Overfull \hbox (14.6998pt too wide) in paragraph at lines 47--49
+\T1/AnonymousPro/m/n/10 has to be ac-ti-vated by the com-pany ev-ery time it ge
+ts plugged out.
+ []
+
+
+Overfull \hbox (3.7998pt too wide) in paragraph at lines 47--49
+\T1/AnonymousPro/m/n/10 It does have some very smart func-tions which will be i
+m-ple-mented
+ []
+
+
+Overfull \hbox (31.04979pt too wide) in paragraph at lines 51--54
+\T1/AnonymousPro/m/n/10 For a starter, the medicine dis-penser will re-duce the
+ chance of hand-
+ []
+
+
+Overfull \hbox (3.7998pt too wide) in paragraph at lines 51--54
+\T1/AnonymousPro/m/n/10 ing clients the wrong medicine. Nor-mally the staff wil
+l have to
+ []
+
+
+Overfull \hbox (20.1498pt too wide) in paragraph at lines 51--54
+\T1/AnonymousPro/m/n/10 come by ev-ery-day to give the medicine. With the medic
+ine dis-penser
+ []
+
+
+Overfull \hbox (14.6998pt too wide) in paragraph at lines 51--54
+\T1/AnonymousPro/m/n/10 this is re-duced to once a week[]Lamport, 1986). An-oth
+er sim-ple but
+ []
+
+
+Overfull \hbox (3.7998pt too wide) in paragraph at lines 51--54
+\T1/AnonymousPro/m/n/10 time tak-ing job which nor-mally the staff has to do is
+ dealt with
+ []
+
+
+Overfull \hbox (3.7998pt too wide) in paragraph at lines 51--54
+\T1/AnonymousPro/m/n/10 by the dis-penser. The dis-penser does not only hand th
+e medicine
+ []
+
+
+Overfull \hbox (14.6998pt too wide) in paragraph at lines 51--54
+\T1/AnonymousPro/m/n/10 but also no-ti-fies the staff if the medicine is take. 
+Nor-mally the
+ []
+
+
+Overfull \hbox (25.5998pt too wide) in paragraph at lines 51--54
+\T1/AnonymousPro/m/n/10 staff would need to check if the medicine is taken, thi
+s is now sim-
+ []
+
+
+Overfull \hbox (25.5998pt too wide) in paragraph at lines 51--54
+\T1/AnonymousPro/m/n/10 ply done by the dis-penser. Do-ing these sim-ple but ti
+me tak-ing tasks
+ []
+
+
+Overfull \hbox (31.04979pt too wide) in paragraph at lines 51--54
+\T1/AnonymousPro/m/n/10 of the staff cre-ates more time to have a chat with the
+ clients, some-
+ []
+
+
+Overfull \hbox (14.6998pt too wide) in paragraph at lines 51--54
+\T1/AnonymousPro/m/n/10 thing which is nec-es-sary but not done due to the lack
+ of staff. A
+ []
+
+
+Overfull \hbox (20.1498pt too wide) in paragraph at lines 51--54
+\T1/AnonymousPro/m/n/10 down-side to the dis-penser is the chance of fail-ure, 
+this could lead
+ []
+
+
+Overfull \hbox (20.1498pt too wide) in paragraph at lines 51--54
+\T1/AnonymousPro/m/n/10 to not re-leas-ing the medicine. The ad-van-tage of a h
+u-man giv-ing the
+ []
+
+
+Overfull \hbox (25.5998pt too wide) in paragraph at lines 51--54
+\T1/AnonymousPro/m/n/10 medicine is that the chance of the staff not go-ing by 
+a clients room
+ []
+
+
+Overfull \hbox (9.2498pt too wide) in paragraph at lines 51--54
+\T1/AnonymousPro/m/n/10 and giv-ing the medicine is smaller. To pre-vent this f
+rom hap-pen-
+ []
+
+
+Overfull \hbox (9.2498pt too wide) in paragraph at lines 51--54
+\T1/AnonymousPro/m/n/10 ing or pre-vent this from be-ing a ma-jor prob-lem, the
+ medicine dis-
+ []
+
+
+Overfull \hbox (3.7998pt too wide) in paragraph at lines 51--54
+\T1/AnonymousPro/m/n/10 penser no-ti-fies the staff when there is an er-ror or 
+fail-ure. In
+ []
+
+
+Overfull \hbox (9.2498pt too wide) in paragraph at lines 51--54
+\T1/AnonymousPro/m/n/10 this way the staff knows there is an er-ror or fail-ure
+ and is able
+ []
+
+[2]
+Overfull \hbox (20.1498pt too wide) in paragraph at lines 56--58
+\T1/AnonymousPro/m/n/10 The global idea is to have a medicine dis-penser in ev-
+ery room which
+ []
+
+
+Overfull \hbox (3.7998pt too wide) in paragraph at lines 56--58
+\T1/AnonymousPro/m/n/10 re-leases the medicine when needed. This does the staff
+?s job of
+ []
+
+
+Overfull \hbox (9.2498pt too wide) in paragraph at lines 56--58
+\T1/AnonymousPro/m/n/10 go-ing by ev-ery room ev-ery day. The staff will only n
+eed to go by
+ []
+
+
+Overfull \hbox (14.6998pt too wide) in paragraph at lines 56--58
+\T1/AnonymousPro/m/n/10 the rooms once a week to fill the dis-pensers. The dis-
+pensers will
+ []
+
+
+Overfull \hbox (20.1498pt too wide) in paragraph at lines 56--58
+\T1/AnonymousPro/m/n/10 re-lease the medicine, no-tify the staff if the medicin
+e is taken and
+ []
+
+
+Overfull \hbox (20.1498pt too wide) in paragraph at lines 56--58
+\T1/AnonymousPro/m/n/10 also no-tify the staff if the medicine is not taken. In
+ con-clu-sion,
+ []
+
+
+Overfull \hbox (25.5998pt too wide) in paragraph at lines 56--58
+\T1/AnonymousPro/m/n/10 this will solve the prob-lem of not hav-ing the time to
+ so-cial-ize with
+ []
+
+
+Overfull \hbox (14.6998pt too wide) in paragraph at lines 56--58
+\T1/AnonymousPro/m/n/10 the clients. The dis-pensers will take over some sim-pl
+e, time tak-
+ []
+
+
+Overfull \hbox (14.6998pt too wide) in paragraph at lines 56--58
+\T1/AnonymousPro/m/n/10 ing jobs of the staff. With this time the staff can hav
+e the much
+ []
+
+[3] (./test.bbl
+LaTeX Font Info:    Font shape `T1/AnonymousPro/m/it' will be
+(Font)              scaled to size 10.0pt on input line 27.
+
+Underfull \hbox (badness 1558) in paragraph at lines 16--31
+\T1/AnonymousPro/m/n/10 Rea-son-ing about nam-ing sys-tems.  \T1/AnonymousPro/m
+/it/10 ACM Trans. Pro-gram. Lang.
+ []
+
+
+Underfull \hbox (badness 3333) in paragraph at lines 43--55
+[]\T1/AnonymousPro/m/n/10 Braams, J.  (1991, June).  Ba-bel, a mul-ti-lin-gual 
+style-option
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 91--105
+[]\T1/AnonymousPro/m/n/10 Herlihy, M.  (1993, Novem-ber).  A method-ol-ogy for 
+im-ple-ment-ing
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 91--105
+\T1/AnonymousPro/m/n/10 highly con-cur-rent data ob-jects.  \T1/AnonymousPro/m/
+it/10 ACM Trans. Pro-gram. Lang.
+ []
+
+) [4] (./test.aux) ) 
+Here is how much of TeX's memory you used:
+ 3723 strings out of 493014
+ 52035 string characters out of 6133351
+ 119450 words of memory out of 5000000
+ 7184 multiletter control sequences out of 15000+600000
+ 14970 words of font info for 53 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,13n,43p,792b,285s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/anonymo
+uspro/AnonymousPro-03.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/a
+nonymouspro/AnonymousPro-01.enc}{/usr/local/texlive/2016/texmf-dist/fonts/enc/d
+vips/cm-super/cm-super-t1.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/p
+ublic/anonymouspro/AnonymousPro-Bold.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/public/anonymouspro/AnonymousPro-Italic.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/anonymouspro/AnonymousPro-Regular.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on test.pdf (6 pages, 212204 bytes).
+PDF statistics:
+ 47 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
